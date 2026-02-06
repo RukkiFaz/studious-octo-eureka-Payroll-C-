@@ -1,0 +1,16 @@
+C:\Users\ruksh\Desktop\DDD\Grif\bin\Debug\Grif.exe.config
+C:\Users\ruksh\Desktop\DDD\Grif\bin\Debug\Grif.exe
+C:\Users\ruksh\Desktop\DDD\Grif\bin\Debug\Grif.pdb
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.csproj.AssemblyReference.cache
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.csproj.SuggestedBindingRedirects.cache
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Employees.resources
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Properties.Resources.resources
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.csproj.GenerateResource.cache
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.csproj.CoreCompileInputs.cache
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.exe
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.pdb
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Home.resources
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Home_Page.resources
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Login.resources
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Attendence.resources
+C:\Users\ruksh\Desktop\DDD\Grif\obj\Debug\Grif.Salary.resources
